@@ -1,7 +1,7 @@
 name: AGTaylor
 favicon: null
-layout_spectrum: 0.40322860702872276
-typography_spectrum: 0.18248403212055564
+layout_spectrum: 0.28644
+typography_spectrum: 0.43775
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5668892518151551
+    - '#000000'
+    - '#fb0e06'
+    - '#fdfdfd'
+    - '#fa80c9'
+    - '#6a6b9b'
+  brandStrength: 0.625
   lightness: 0.6358205799479038
   saturation: 0.46917147538624704
   rhythmicContrast: 0.17428291658870876
